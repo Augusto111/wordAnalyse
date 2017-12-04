@@ -1,0 +1,2 @@
+# wordAnalyse
+fundamentals of compiling
